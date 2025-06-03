@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e81c4a32-fc15-423d-b3a7-6f79a3b1f140" alt="Unifacisa Aulas" width="400" />
+  <img src="https://github.com/user-attachments/assets/64e05a4f-2107-457a-8e0e-43ddd10f4210" alt="Unifacisa Aulas" width="400" />
 </p>
 
 
