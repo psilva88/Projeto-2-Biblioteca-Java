@@ -4,18 +4,18 @@
 
 
 # 📢Projeto 1 - Gerenciamento de Biblioteca Em Java
-Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este sistema foi desenvolvido para facilitar a coleta de livros dos clientes.
+Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este sistema foi desenvolvido para facilitar a coleta de livros ou revistas dos clientes.
 
 ✨ Funcionalidades:
 
-•🔍Listagem de todos os livros registrados;
+•🔍Listagem de todos os livros ou revistas registrados;
 
-•➕Adicionar um novo livro e armazená-lo no sistema;
+•➕Adicionar um novo livro ou revista e armazená-lo no sistema;
 
-•📊Exibir a quantidade total de livros registradas;
+•📊Exibir a quantidade total de livros ou revistas registradas;
 
-•🔎Pesquisar um livro específico através do título;
+•🔎Pesquisar um livro ou revista específico através do título;
 
-•🗑️Excluir um livro pelo título;
+•🗑️Excluir um livro ou revista pelo título;
 
 •🚪Sair do sistema de gerenciamento de biblioteca de forma segura.
