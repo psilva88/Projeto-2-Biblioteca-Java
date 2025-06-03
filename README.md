@@ -3,7 +3,7 @@
 </p>
 
 
-# 📢Projeto 2 - Gerenciamento de Biblioteca Em Java
+# 📢Projeto 2 - Gerenciamento de Biblioteca Em Java Orientada a Objeto
 Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este sistema foi desenvolvido para facilitar a coleta de livros ou revistas dos clientes.
 
 ✨ Funcionalidades:
