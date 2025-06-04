@@ -19,3 +19,4 @@ Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este sistema foi desenvolvi
 •🗑️Excluir um livro ou revista pelo título;
 
 •🚪Sair do sistema de gerenciamento de biblioteca de forma segura.
+https://github.com/psilva88/Atividade-GIT-Samara/invitations
